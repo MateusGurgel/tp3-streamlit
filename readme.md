@@ -1,4 +1,4 @@
-## O objetivo do dashboard é oferecer uma visão clara dos possíveis custos de uma viagem ao Rio de Janeiro.
+## O objetivo do dashboard é oferecer uma visão clara dos possíveis custos de diárias em uma viagem ao Rio de Janeiro.
 
 ### Fontes:
 
@@ -14,3 +14,7 @@ Correção ortográfica
 
 Questão 6:
 Utilizei o chat GPT 4o para descobrir como a cor de background do streamlit é alterada
+
+### Resultado:
+
+As viagens apresentam uma forte tendência de alta com o passar do tempo, possivelmente por conta da inflação. Além disso, os meses de fevereiro e dezembro apresentam aumentos significativos nos preços.
